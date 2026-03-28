@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rica-2000&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitas" />
   <br><br>
-  <a href="https://linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/ricardo-salinas-huerta-a496a0237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tu-correo@email.com">
+  <a href="mailto:rica-sal@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://rica-2000.github.io">
@@ -75,6 +75,6 @@ No dudes en revisar mis repositorios a continuación o visitar directamente los 
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rica-2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rica-2000&layout=compact&langs_count=7&theme=dracula" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rica-2000&show_icons=true&theme=dracula&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rica-2000&layout=compact&theme=dracula" alt="Lenguajes más usados" />
 </div>
