@@ -1,5 +1,19 @@
 # ¡Hola! Soy Ricardo Salinas Huerta 👋
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rica-2000&color=blue&style=flat-square&label=VISITAS" alt="Contador de visitas" />
+  <br><br>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:tu-correo@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://rica-2000.github.io">
+    <img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
+  </a>
+</div>
+
 Soy **Desarrollador de Software Full-stack** e **Ingeniero en Sistemas Inteligentes** egresado de la UASLP. Me apasiona transformar ideas e hilos de requerimientos complejos en soluciones digitales intuitivas, atractivas y funcionales para cualquier tipo de usuario. Mi objetivo principal es construir software que escale sin perder calidad ni usabilidad.
 
 ## 🛠️ Sobre mí
@@ -54,10 +68,13 @@ A lo largo de mi carrera he construido +15 proyectos, entre ellos:
 - **Chatbot Académico:** Asistente conversacional IA (Python, Rasa, RAG).
 - **Micro Proyectos Front:** Apps diversas (Clima, Buscador de Películas TMDB, Carrito) para manejar el estado con React.
 
-## ⭐ Logros
-
-Participación en el **Reconocimiento BBVA** (Chavos que Inspira), competidor en CTF de **IngeHack**, y participaciones en **Hackathon Magna** y **Talent Land**.
-
 ## 📫 ¿Quieres contactarme o tienes un proyecto en mente?
 
 No dudes en revisar mis repositorios a continuación o visitar directamente los demos de mis despliegues desde mi portfolio. ¡Siempre abierto a nuevos retos freelance y colaboraciones!
+
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rica-2000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rica-2000&layout=compact&langs_count=7&theme=dracula" alt="Lenguajes más usados" />
+</div>
